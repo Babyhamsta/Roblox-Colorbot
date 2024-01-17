@@ -1,0 +1,22 @@
+{
+    "AIM_KEY": "SHIFT",
+    "BINDMODE": "keyboard",
+    "SWITCH_MODE_KEY": "F5",
+    "UPDATE_KEY": "F6",
+    "FOV_KEY_UP": "ctrl+]",
+    "FOV_KEY_DOWN": "ctrl+[",
+    "CAM_FOV": 90,
+    "AIM_FOV": 85,
+    "AIM_SPEED_X": 0.5,
+    "AIM_SPEED_Y": 0.5,
+    "SMOOTHENING": "enabled",
+    "SMOOTH_FACTOR": 0.5,
+    "AIM_OFFSET_X": 7,
+    "AIM_OFFSET_Y": 10,
+    "TRIGGERBOT": "enabled",
+    "TRIGGERBOT_DELAY": 0,
+    "TRIGGERBOT_DISTANCE": 10,
+    "COLOR": "Cyan",
+    "UPPER_COLOR": [0, 0, 0],
+    "LOWER_COLOR": [0, 0, 0]
+}
