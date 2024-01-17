@@ -17,6 +17,14 @@
     "TRIGGERBOT_DELAY": 0,
     "TRIGGERBOT_DISTANCE": 10,
     "COLOR": "Cyan",
-    "UPPER_COLOR": [0, 0, 0],
-    "LOWER_COLOR": [0, 0, 0]
+    "UPPER_COLOR": [
+        0,
+        0,
+        0
+    ],
+    "LOWER_COLOR": [
+        0,
+        0,
+        0
+    ]
 }
